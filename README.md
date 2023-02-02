@@ -11,6 +11,7 @@
 
 ##### Java 8 (or higer) required
 
+## Informations:
 
 [Need help with a plugin? Do you need a custom plugin? Join the discord! (CLICK TO JOIN)](https://discord.gg/AahXrsPvAq)
 
