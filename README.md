@@ -23,7 +23,7 @@ Config.yml
 
 
 
-[CODE=yaml]
+```
 
 ## ░█████╗░███╗░░██╗████████╗██╗███████╗░█████╗░░██████╗████████╗██████╗░██████╗░███████╗░█████╗░██╗░░██╗
 
@@ -71,7 +71,8 @@ bans:
 
 status: false
 
-  ban-command: "ban {PLAYER} Cheat-{WHAT}"[/CODE]
+  ban-command: "ban {PLAYER} Cheat-{WHAT}"
+```
 
 
 
