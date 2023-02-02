@@ -3,27 +3,26 @@
 
 
 
-Support:
+## Support:
 
-Nukkit (Vanilla in 1.4.8 or higer)
+##### Nukkit (Vanilla in 1.4.8 or higer)
 
-Better support for PowerNukkit (in 1.5.3)
+##### Better support for PowerNukkit (in 1.5.3)
 
-Java 8 (or higer) required
+##### Java 8 (or higer) required
 
 
-
-Need help with a plugin? Do you need a custom plugin? Join the discord! (CLICK TO JOIN)
-
-Support my work (CLICK)
+[Need help with a plugin? Do you need a custom plugin? Join the discord! (CLICK TO JOIN)](https://discord.gg/AahXrsPvAq)
+[Support my work (CLICK)](https://paypal.me/nookierDotacje)
 
 
 
-Config.yml
+
+## Config.yml
 
 
 
-```
+```yaml
 
 ## ░█████╗░███╗░░██╗████████╗██╗███████╗░█████╗░░██████╗████████╗██████╗░██████╗░███████╗░█████╗░██╗░░██╗
 
@@ -79,5 +78,4 @@ status: false
 
 
 If you need help create github issue
-
-[URL unfurl="true"]https://github.com/Verciak/AntiFastBreak-Nukkit/issues[/URL]
+https://github.com/Verciak/AntiFastBreak-Nukkit/issues
