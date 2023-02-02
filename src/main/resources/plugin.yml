@@ -1,0 +1,6 @@
+name: Anti FastBreak/Nuker
+version: 0.0.1
+main: pl.vertty.fastbreak.Main
+author: VerttyPL
+description: Block fastbreak and nuker on your server!
+api: [1.0.8]
